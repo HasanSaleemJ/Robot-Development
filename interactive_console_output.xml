@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 6.1.1 (Python 3.10.12 on win32)" generated="20231210 23:21:14.692" rpa="false" schemaversion="4">
+<robot generator="Robot 6.1.1 (Python 3.10.12 on win32)" generated="20231221 20:58:40.638" rpa="false" schemaversion="4">
 <suite id="s1" name="Robot Interactive Console" source="c:\Users\MrLaptop\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
 <test id="s1-t1" name="Default Task/Test" line="5">
 <kw name="Interpreter Main Loop" library="MainLoop">
-<status status="PASS" starttime="20231210 23:21:14.724" endtime="20231210 23:21:28.696"/>
+<kw name="payload">
+<msg timestamp="20231221 20:59:08.997" level="FAIL">No keyword with name 'payload' found.</msg>
+<status status="FAIL" starttime="20231221 20:59:08.997" endtime="20231221 20:59:08.997"/>
 </kw>
-<status status="PASS" starttime="20231210 23:21:14.724" endtime="20231210 23:21:28.696"/>
+<status status="PASS" starttime="20231221 20:58:40.678" endtime="20231221 20:59:22.143"/>
+</kw>
+<status status="PASS" starttime="20231221 20:58:40.678" endtime="20231221 20:59:22.143"/>
 </test>
-<status status="PASS" starttime="20231210 23:21:14.692" endtime="20231210 23:21:28.697"/>
+<status status="PASS" starttime="20231221 20:58:40.638" endtime="20231221 20:59:22.144"/>
 </suite>
 <statistics>
 <total>
